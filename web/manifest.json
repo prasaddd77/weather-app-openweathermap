@@ -1,6 +1,6 @@
 {
-    "name": "weatherapp_starter_project",
-    "short_name": "weatherapp_starter_project",
+    "name": "weatherapp",
+    "short_name": "weatherapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
